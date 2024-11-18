@@ -31,6 +31,6 @@ string[] coding languages{
 
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 <!---
-gameking2011/gameking2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GameLord2011/GameLord2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
