@@ -3,7 +3,7 @@
 
 I am __@GameLord2011__
 
-`
+```C#
     string[] coding languages{
         "C#",
         "C++",
@@ -21,7 +21,7 @@ I am __@GameLord2011__
         "JSON",
         "VISUAL BASED SCRIPT"
     };
-`
+```
 
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 
