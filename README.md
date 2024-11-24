@@ -31,6 +31,8 @@ I am __@GameLord2011__
 
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 
+![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011)
+
 # [Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
