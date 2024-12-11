@@ -4,7 +4,7 @@
 I am __@GameLord2011__
 
 ```C#
-    string[] coding languages{
+    string[] coding_languages{
         "C#",
         "C++",
         "C",
