@@ -31,7 +31,9 @@ I am __@GameLord2011__
 
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 
-![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011)
+![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&layout=pie&theme=shadow_green)
 
 # [Dm me!][1]
 
