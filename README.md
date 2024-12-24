@@ -33,6 +33,8 @@ I am __@GameLord2011__
 
 ![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&layout=pie&theme=shadow_green)
+
 # [Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
