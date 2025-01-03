@@ -1,15 +1,8 @@
 
-
-<style>
-    .name{
-        background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(255, 165, 0) 16%, rgb(255, 255, 0) 32%, rgb(0, 255, 0) 48%, rgb(0, 0, 255) 64%, rgb(75, 0, 130) 80%, rgb(128, 0, 128) 100%); color: rgb(0, 0, 0); 
-        border-style: double; 
-    }
-</style>
-
 # Visit me @ [gamelord2011.github.io](GameLord2011.github.io)
 
-I am <b class="name">@GameLord2011</b>
+I am <b style="background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(255, 165, 0) 16%, rgb(255, 255, 0) 32%, rgb(0, 255, 0) 48%, rgb(0, 0, 255) 64%, rgb(75, 0, 130) 80%, rgb(128, 0, 128) 100%); color: rgb(0, 0, 0); 
+        border-style: double;">@GameLord2011</b>
 
 ```C#
     string[] coding_languages{
