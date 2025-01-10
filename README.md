@@ -1,7 +1,7 @@
 
 # Visit me @ [gamelord2011.github.io](GameLord2011.github.io)
 
-I am __@GameLord2011__
+I'm __@GameLord2011__
 
 ```C#
     string[] coding_languages{
