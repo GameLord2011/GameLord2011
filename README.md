@@ -3,8 +3,8 @@
 
 I'm __@GameLord2011__
 
-```C#
-    string[] coding_languages{
+```Type Script
+    const coding_languages: string[] = [
         "C#",
         "C++",
         "C",
@@ -20,7 +20,7 @@ I'm __@GameLord2011__
         "PYTHON",
         "JSON",
         "VISUAL BASED SCRIPT"
-    };
+    ];
 ```
 
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
