@@ -3,7 +3,7 @@
 
 I'm __@GameLord2011__
 
-```Type Script
+```TS
     const coding_languages: string[] = [
         "C#",
         "C++",
