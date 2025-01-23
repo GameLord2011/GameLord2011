@@ -23,7 +23,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)  
 
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)  
