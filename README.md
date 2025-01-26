@@ -3,6 +3,40 @@
 
 ## Visit me @ [gamelord2011.vercel.app](GameLord2011.vercel.app)
 
+```json
+{
+    "userName": "@GameLord2011",
+    "website": "gamelord2011.vercel.app",
+    "ideasGuy": true,
+    "health": {
+        "fat": true,
+        "lazy": true,
+        "sleepDeprived": true,
+    },
+    "codingEnviroment": [
+        {
+            "primaryOs": "Windows",
+            "primaryOsVerdion": 11,
+        },
+        {
+            "secondaryOs": "Ubuntu",
+            "usesWsl": true,
+            "wslVersion": 2,
+        },
+    ],
+    "ides": [
+        "VS Code",
+        "Visual Studio",
+        "Aurduino IDE",
+    ],
+    "techs": [
+        "Git For Windows",
+        "Next JS",
+        "Git For Windows",
+    ]
+}
+```
+
 ### Languages
 
 ![sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
