@@ -11,28 +11,26 @@
     "health": {
         "fat": true,
         "lazy": true,
-        "sleepDeprived": true,
+        "sleepDeprived": true
     },
-    "codingEnviroment": [
-        {
-            "primaryOs": "Windows",
-            "primaryOsVersion": 11,
-        },
-        {
-            "secondaryOs": "Ubuntu",
-            "usesWsl": true,
-            "wslVersion": 2,
-        },
-    ],
+    "primaryOs": {
+        "nome": "Windows",
+        "version": 11
+    },
+    "secondaryOs": {
+        "name": "Ubuntu",
+        "usesWsl": true,
+        "wslVersion": 2
+    },
     "ides": [
         "VS Code",
         "Visual Studio",
-        "Aurduino IDE",
+        "Aurduino IDE"
     ],
     "techs": [
         "Git For Windows",
         "Next JS",
-        "Git For Windows",
+        "Git For Windows"
     ]
 }
 ```
