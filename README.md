@@ -16,7 +16,7 @@
     "codingEnviroment": [
         {
             "primaryOs": "Windows",
-            "primaryOsVerdion": 11,
+            "primaryOsVersion": 11,
         },
         {
             "secondaryOs": "Ubuntu",
