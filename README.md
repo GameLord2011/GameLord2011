@@ -29,8 +29,7 @@
     ],
     "techs": [
         "Git For Windows",
-        "Next JS",
-        "Git For Windows"
+        "Next JS"
     ]
 }
 ```
