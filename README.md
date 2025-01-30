@@ -9,7 +9,7 @@
     "website": "gamelord2011.vercel.app",
     "ideasGuy": true,
     "health": {
-        "fat": true,
+        "skinny": true,
         "lazy": true,
         "sleepDeprived": true
     },
