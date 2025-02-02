@@ -74,7 +74,7 @@
 
 ![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&layout=pie&theme=shadow_green)  
 
-# [Dm me!][1]
+[Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
 <!---
