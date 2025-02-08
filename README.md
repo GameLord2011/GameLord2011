@@ -77,6 +77,11 @@
 [Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
+
+### My skills
+
+[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](skillicons.dev)
+
 <!---
 GameLord2011/GameLord2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
