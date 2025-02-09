@@ -36,39 +36,36 @@
 
 ### Languages
 
-![sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+[![sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ### Techs
 
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F9AD00?style=for-the-badge&logo=pnpm&color=black)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![pnpm](https://img.shields.io/badge/pnpm-F9AD00?style=for-the-badge&logo=pnpm&color=black)](https://pnpm.io)
+[![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ### Frameworks
 
-![.net](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![.net](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 ### Browsers
 
-![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+[![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)](https://www.opera.com/gx)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge)
 
-[![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)  
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)  
-
-[![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)  
-
-[![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)  
+[![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
+[![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 
 ![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)  
 
@@ -78,7 +75,7 @@
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
 
-### My skills
+### My skills (compiled down)
 
 [![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
