@@ -62,6 +62,10 @@
 [![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)](https://www.opera.com/gx)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge)
 
+#### In Summary
+
+[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
+
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
@@ -74,10 +78,6 @@
 [Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
-
-### My skills (compiled down)
-
-[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
 <!---
 GameLord2011/GameLord2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
