@@ -62,6 +62,13 @@
 [![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)](https://www.opera.com/gx)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge)
 
+### Socials
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto&logoColor=%230A0A0A
+)](https://dev.to/gamelord2011)
+[![Codepen](https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=%23000000
+)](https://codepen.io/GameLord2011)
+
 #### In Summary
 
 [![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
