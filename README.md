@@ -50,6 +50,8 @@
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![pnpm](https://img.shields.io/badge/pnpm-F9AD00?style=for-the-badge&logo=pnpm&color=black)](https://pnpm.io)
 [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/home)
 
 ### Frameworks
 
@@ -64,9 +66,9 @@
 
 ### Socials
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto&logoColor=%230A0A0A
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 )](https://dev.to/gamelord2011)
-[![Codepen](https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=%23000000
+[![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white
 )](https://codepen.io/GameLord2011)
 
 #### In Summary
