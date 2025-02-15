@@ -73,7 +73,7 @@
 
 #### In Summary
 
-[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
+[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,vercel,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
