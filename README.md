@@ -3,6 +3,8 @@
 
 ## Visit me @ [gamelord2011.vercel.app](GameLord2011.vercel.app)
 
+:eye: ❤️ Vercel
+
 ```json
 {
     "userName": "@GameLord2011",
