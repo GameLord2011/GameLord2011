@@ -14,7 +14,7 @@
         "sleepDeprived": true
     },
     "primaryOs": {
-        "nome": "Windows",
+        "name": "Windows",
         "version": 11
     },
     "secondaryOs": {
