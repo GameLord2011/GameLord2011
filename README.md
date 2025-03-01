@@ -71,9 +71,9 @@
 [![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white
 )](https://codepen.io/GameLord2011)
 
-#### In Summary
+#### MOAR Skills
 
-[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,codepen,css,devto,dotnet,git,github,gmail,html,js,kali,linux,md,nextjs,nodejs,pnpm,powershell,py,raspberrypi,react,sass,stackoverflow,svg,ts,ubuntu,unity,vercel,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
+[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,gmail,kali,linux,py,raspberrypi,stackoverflow,svg,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
@@ -87,6 +87,10 @@
 [Dm me!][1]
 
 [1]: <mailto://dangerb2011@gmail.com> "Dm me!"
+
+<!---
+Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
+--->
 
 <!---
 GameLord2011/GameLord2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
