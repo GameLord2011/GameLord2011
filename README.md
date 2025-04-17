@@ -84,7 +84,7 @@
 
 ![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)  
 
-![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&layout=pie&theme=shadow_green)  
+![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&theme=shadow_green)  
 
 [Dm me!][1]
 
