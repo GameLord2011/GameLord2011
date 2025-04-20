@@ -47,7 +47,10 @@
         "Rocket Leauge",
         "Fall Guys",
         "Fortnite",
-        "The Crew 2"
+        "The Crew 2",
+        "Gorrilla Tag",
+        "Population: One",
+        "Hand Physics Simulator"
     ]
 }
 ```
