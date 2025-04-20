@@ -105,7 +105,6 @@
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=GameLord2011&color=green)
 
 ![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)  
 
