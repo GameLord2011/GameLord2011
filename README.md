@@ -28,10 +28,6 @@
         "VS Code",
         "Visual Studio",
         "Aurduino IDE"
-    ],
-    "techs": [
-        "Git For Windows",
-        "Next JS"
     ]
 }
 ```
