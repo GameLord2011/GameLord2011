@@ -28,6 +28,26 @@
         "VS Code",
         "Visual Studio",
         "Aurduino IDE"
+    ],
+    "games": [
+        "Minecraft Java Edtion",
+        "Minecraft Bedrock Edtion",
+        "Minecraft Story Mode: Season One",
+        "Minecraft Story Mode: Season Two",
+        "Minecraft Dungeons Ultimate Edition",
+        "The Legend of Zelda: Tears of The Kingdom",
+        "Super Smash Brothers: Ultimate",
+        "Mario Kart 8 Deluxe",
+        "Super Mario Maker 2",
+        "Super Mario 3D World + Bowsers Fury",
+        "Super Mario Odyssey",
+        "The Escapists",
+        "The Escapists 2",
+        "Bridge Constructor Portal",
+        "Rocket Leauge",
+        "Fall Guys",
+        "Fortnite",
+        "The Crew 2"
     ]
 }
 ```
@@ -77,10 +97,15 @@
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=GameLord2011&color=green)
 
 ![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)  
 
 ![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&theme=shadow_green)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GameLord2011&theme=vue-dark&background=45%2C003303%2C000000)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GameLord2011&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [Dm me!][1]
 
@@ -88,9 +113,4 @@
 
 <!---
 Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
---->
-
-<!---
-GameLord2011/GameLord2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
