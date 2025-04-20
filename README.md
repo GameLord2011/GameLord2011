@@ -15,15 +15,20 @@
         "lazy": true,
         "sleepDeprived": true
     },
-    "primaryOs": {
-        "name": "Windows",
-        "version": 11
-    },
-    "secondaryOs": {
-        "name": "Ubuntu",
-        "usesWsl": true,
-        "wslVersion": 2
-    },
+    "osEs": [
+        {
+            "name": "Windows",
+            "version": 11
+        },
+        {
+            "name": "Ubuntu",
+            "usesWsl": true,
+            "wslVersion": 2
+        },
+        {
+            "name": "RetroPie"
+        }
+    ],
     "ides": [
         "VS Code",
         "Visual Studio",
