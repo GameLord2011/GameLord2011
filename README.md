@@ -97,6 +97,12 @@
 [![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white
 )](https://codepen.io/GameLord2011)
 
+### Games
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-%232FF924?style=for-the-badge)](https://namemc.com/profile/GameLord2011.1)
+[![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite&logoColor=%23ff0
+)](https://fortnitetracker.com/profile/all/TRGameLord2011)
+
 #### MOAR Skills
 
 [![My Skillz](https://skillicons.dev/icons?i=arduino,bash,gmail,kali,linux,py,raspberrypi,stackoverflow,svg,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
