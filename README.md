@@ -100,7 +100,7 @@
 ### Games
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-%232FF924?style=for-the-badge)](https://namemc.com/profile/GameLord2011.1)
-[![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite&logoColor=%23ff0
+[![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite
 )](https://fortnitetracker.com/profile/all/TRGameLord2011)
 
 #### MOAR Skills
