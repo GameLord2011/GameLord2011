@@ -1,7 +1,7 @@
 
 # I'm __@GameLord2011__
 
-## Visit me @ [https://gamelord2011.vercel.app](GameLord2011.vercel.app)
+## Visit me @ [gamelord2011.vercel.app](https://GameLord2011.vercel.app)
 
 :eye: ❤️ Vercel
 
