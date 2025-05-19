@@ -107,10 +107,15 @@
 
 [![My Skillz](https://skillicons.dev/icons?i=arduino,bash,gmail,kali,linux,py,raspberrypi,stackoverflow,svg,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
-#### NOTES:
+---
+
+| Cool notes |
+| :--- |
 
 - I wasn't born in 2007 HAHA I MESSED WITH GITHUB, IT WASN'T EVEN FOUNDED IN 2007!!!
 - :eye: :heart: ASCII art.
+
+---
 
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
