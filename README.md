@@ -132,7 +132,7 @@
 
 [Dm me!][1]
 
-[1]: <mailto://dangerb2011@gmail.com> "Dm me!"
+[1]: <https://github.com/GameLord2011/GameLord2011/discussions> "Dm me!"
 
 <!---
 Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
