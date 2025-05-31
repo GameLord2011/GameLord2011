@@ -21,11 +21,6 @@
             "version": 11
         },
         {
-            "name": "Ubuntu",
-            "usesWsl": true,
-            "wslVersion": 2
-        },
-        {
             "name": "RetroPie"
         }
     ],
