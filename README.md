@@ -86,6 +86,8 @@
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge)](https://www.microsoft.com/en-us/edge)
 [![Internet Explorer](https://img.shields.io/badge/Internet%20Explorer-7FF5FF?style=for-the-badge)](https://www.microsoft.com/en-us/download/internet-explorer)
 
+(NOT KIDDING ABOUT THE LAST ONE!)
+
 ### Socials
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
