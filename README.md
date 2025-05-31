@@ -83,7 +83,8 @@
 ### Browsers
 
 [![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)](https://www.opera.com/gx)
-[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge)](https://www.microsoft.com/en-us/edge)
+[![Internet Explorer](https://img.shields.io/badge/Internet%20Explorer-7FF5FF?style=for-the-badge)](https://www.microsoft.com/en-us/download/internet-explorer)
 
 ### Socials
 
