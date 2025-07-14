@@ -144,7 +144,3 @@ Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=006400&text=GameLord2011&section=footer&reversal=true&rotate=2" alt="GameLord2011"></img>
 </p>
-
-<script>
-    console.log("Hello?");
-</script>
