@@ -146,4 +146,5 @@ Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=006400&text=GameLord2011&section=footer&reversal=true&rotate=2" alt="GameLord2011"></img>
 </p>
 
-🄯 2025 - current GameLord2011 under [CC BY-SA v4 license](https://creativecommons.org/licenses/by-sa/4.0)
+_🄯 2025–present GameLord2011 — licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).  
+You’re free to copy, adapt, and reuse — please give credit and share under the same license tho._
