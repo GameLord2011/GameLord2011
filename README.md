@@ -124,10 +124,10 @@
 [![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
 [![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 
-![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)
-![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&theme=shadow_green)
-[![GitHub Streak](https://github-readme-streak-stats-eight-rho.vercel.app/?user=GameLord2011&theme=vue-dark&background=45%2C003303%2C000000)](https://git.io/streak-stats)
-[![GameLord2011's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GameLord2011&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GameLord2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameLord2011&theme=shadow_green&show_icons=true&rank_icon=github)  
+![GameLord2011's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameLord2011&theme=shadow_green)  
+[![GitHub Streak](https://github-readme-streak-stats-eight-rho.vercel.app/?user=GameLord2011&theme=vue-dark&background=45%2C003303%2C000000)](https://git.io/streak-stats)  
+[![GameLord2011's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GameLord2011&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 [Dm me!][1]
 
