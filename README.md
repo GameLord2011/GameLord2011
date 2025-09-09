@@ -116,6 +116,7 @@
 - I break basic programming rules :trollface:
 - I am the 20'th person to ever run the 2013 Minecraft april fools update.
 - I HATE usb household.
+- I'm a christian. (I don't know how I forgot to mention that)
 
 ---
 
