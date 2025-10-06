@@ -116,7 +116,7 @@
 - I break basic programming rules :trollface:
 - I am the 20'th person to ever run the 2013 Minecraft april fools update.
 - I HATE usb household.
-- I'm a christian. (I don't know how I forgot to mention that)
+- I'm a christian.
 
 ---
 
@@ -147,5 +147,5 @@ Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=006400&text=▄︻デG̷a̷m̷e̷L̷o̷r̷d̷2̷0̷1̷1̷══━一%20w(ﾟДﾟ)w&section=footer&reversal=true&rotate=2&fontSize=50" alt="▄︻デG̷a̷m̷e̷L̷o̷r̷d̷2̷0̷1̷1̷══━一 w(ﾟДﾟ)w"></img>
 </p>
 
-_&#1F12F; 2025–present GameLord2011 — licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).  
+_🄯 2025–present GameLord2011 — licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).  
 You’re free to copy, adapt, and reuse — please give credit and share under the same license tho._
