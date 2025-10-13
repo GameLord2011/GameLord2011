@@ -3,7 +3,7 @@
 
 ## Visit me @ [gamelord2011.vercel.app](https://GameLord2011.vercel.app)
 
-:eye: ❤️ Vercel
+:eye: ❤️ Pingbombs
 
 ```json
 {
