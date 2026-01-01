@@ -28,29 +28,6 @@
         "VS Code",
         "Visual Studio",
         "Aurduino IDE"
-    ],
-    "games": [
-        "Minecraft Java Edtion",
-        "Minecraft Bedrock Edtion",
-        "Minecraft Story Mode: Season One",
-        "Minecraft Story Mode: Season Two",
-        "Minecraft Dungeons Ultimate Edition",
-        "The Legend of Zelda: Tears of The Kingdom",
-        "Super Smash Brothers: Ultimate",
-        "Mario Kart 8 Deluxe",
-        "Super Mario Maker 2",
-        "Super Mario 3D World + Bowsers Fury",
-        "Super Mario Odyssey",
-        "The Escapists",
-        "The Escapists 2",
-        "Bridge Constructor Portal",
-        "Rocket Leauge",
-        "Fall Guys",
-        "Fortnite",
-        "The Crew 2",
-        "Gorrilla Tag",
-        "Population: One",
-        "Hand Physics Simulator"
     ]
 }
 ```
