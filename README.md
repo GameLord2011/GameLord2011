@@ -78,6 +78,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-%232FF924?style=for-the-badge)](https://namemc.com/profile/GameLord2011.1)
 [![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite
 )](https://fortnitetracker.com/profile/all/TRGameLord2011)
+[![Counter Strike 2](https://img.shields.io/badge/_-Counter--Strike_2-%2328397F?style=for-the-badge&logo=Counter-Strike&logoColor=%23ffffff&labelColor=%23FBAC18&color=%2328397F)](https://store.steampowered.com/app/730/CounterStrike_2/)
 
 #### MOAR Skills
 
