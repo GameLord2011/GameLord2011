@@ -100,7 +100,7 @@
 [![Years Badge](https://badges.strrl.dev/years/GameLord2011)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/GameLord2011)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/all/GameLord2011)](https://badges.strrl.dev)
-[![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev
+[![Public Repos Badge](https://badges.strrl.dev/repos/GameLord2011)](https://badges.strrl.dev)
 
 [Dm me!][1]
 
