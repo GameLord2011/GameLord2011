@@ -55,7 +55,7 @@
 
 ### Browsers
 
-[![Opera Gx](https://img.shields.io/badge/Vivaldi-#EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-Vivaldi?style=for-the-badge&logo=Vivaldi&logoColor=%23fff&color=%23EF3939)](https://vivaldi.com)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge)](https://www.microsoft.com/en-us/edge)
 [![Internet Explorer](https://img.shields.io/badge/Internet%20Explorer-7FF5FF?style=for-the-badge)](https://www.microsoft.com/en-us/download/internet-explorer)
 
