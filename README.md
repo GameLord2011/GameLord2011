@@ -15,15 +15,10 @@
         "lazy": true,
         "sleepDeprived": true
     },
-    "osEs": [
-        {
-            "name": "Windows",
-            "version": 11
-        },
-        {
-            "name": "RetroPie"
-        }
-    ],
+    "os": {
+        "name": "Windows",
+        "version": 11
+    }
     "ides": [
         "VS Code",
         "Visual Studio",
@@ -60,7 +55,7 @@
 
 ### Browsers
 
-[![Opera Gx](https://img.shields.io/badge/Opera%20Gx-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)](https://www.opera.com/gx)
+[![Opera Gx](https://img.shields.io/badge/Vivaldi-#EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge)](https://www.microsoft.com/en-us/edge)
 [![Internet Explorer](https://img.shields.io/badge/Internet%20Explorer-7FF5FF?style=for-the-badge)](https://www.microsoft.com/en-us/download/internet-explorer)
 
