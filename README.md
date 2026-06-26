@@ -3,8 +3,6 @@
 
 ## Visit me @ [gamelord2011.vercel.app](https://GameLord2011.vercel.app)
 
-:eye: ❤️ Pingbombs
-
 ```json
 {
     "userName": "@GameLord2011",
@@ -19,41 +17,25 @@
         "name": "Windows",
         "version": 11
     }
-    "ides": [
-        "VS Code",
-        "Visual Studio",
-        "Aurduino IDE"
-    ]
 }
 ```
 
-### Languages
+### List of things I use
 
-[![sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![tailwindcss](https://img.shields.io/badge/Tailwind%20Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-[![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
-[![css2024](https://img.shields.io/badge/CSS%202024-663399?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) because webdev.
+- [Typescript](https://www.typescriptlang.org) because I am bad at writing code without help.
+- [Hyper Text Markup Language (HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML) because it powers the web.
+- [Lua](https://www.lua.org) (only because I own [Pico-8](https://www.lexaloffle.com/pico-8.php) and only sometimes)
+- [Expression 2](https://github.com/wiremod/wire/wiki/Expression-2) (not fluently and probably not useful in 9.9 / 10 cases)
+- [Rust](https://rust-lang.org) because I need to poke those ones and zeros.
+- [C](https://www.c-language.org) because I have The C Programming Language.
+- [Java](https://www.java.com/en/) because it runs on 56 billion devices.
+- The [Commonmark](https://commonmark.org) specification for Markdown.
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (but I forgot most of what I knew so don't ask me to do anything in it)
+- An amount of [PowerShell](https://learn.microsoft.com/en-us/powershell/) because I use Windows.
+- Some [Python](https://www.python.org) (but only enough to do basic scripts)
 
-### Techs
-
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![pnpm](https://img.shields.io/badge/pnpm-F9AD00?style=for-the-badge&logo=pnpm&color=black)](https://pnpm.io)
-[![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/home)
-
-### Frameworks
-
-[![.net](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-### Browsers
+### Browsers that I test on
 
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-Vivaldi?style=for-the-badge&logo=Vivaldi&logoColor=%23fff&color=%23EF3939)](https://vivaldi.com)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge)](https://www.microsoft.com/en-us/edge)
@@ -61,23 +43,11 @@
 
 (NOT KIDDING ABOUT THE LAST ONE!)
 
-### Socials
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
-)](https://dev.to/gamelord2011)
-[![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white
-)](https://codepen.io/GameLord2011)
-
-### Games
+### Multiplayer games I play
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-%232FF924?style=for-the-badge)](https://namemc.com/profile/GameLord2011.1)
-[![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite
-)](https://fortnitetracker.com/profile/all/TRGameLord2011)
+[![Fortnite](https://img.shields.io/badge/Fortnite-00C0F0?style=for-the-badge&logo=fortnite)](https://fortnitetracker.com/profile/all/TRGameLord2011)
 [![Counter Strike 2](https://img.shields.io/badge/_-Counter--Strike_2-%2328397F?style=for-the-badge&logo=Counter-Strike&logoColor=%23ffffff&labelColor=%23FBAC18&color=%2328397F)](https://store.steampowered.com/app/730/CounterStrike_2/)
-
-#### MOAR Skills
-
-[![My Skillz](https://skillicons.dev/icons?i=arduino,bash,gmail,kali,linux,py,raspberrypi,stackoverflow,svg,ubuntu,unity,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -101,10 +71,6 @@
 [Dm me!][1]
 
 [1]: <https://github.com/GameLord2011/GameLord2011/discussions> "Dm me!"
-
-<!---
-Note: MOAR is a reference to Ninja Kiwi's game Bloons Monkey City.
---->
 
 ---
 
