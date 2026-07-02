@@ -77,9 +77,6 @@
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/GameLord2011/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/GameLord2011/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/GameLord2011/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=006400&text=▄︻デG̷a̷m̷e̷L̷o̷r̷d̷2̷0̷1̷1̷══━一%20w(ﾟДﾟ)w&section=footer&reversal=true&rotate=2&fontSize=50" alt="▄︻デG̷a̷m̷e̷L̷o̷r̷d̷2̷0̷1̷1̷══━一 w(ﾟДﾟ)w"></img>
-</p>
 
 _🄯 2025–present GameLord2011 — licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).  
 You’re free to copy, adapt, and reuse — please give credit and share under the same license tho._
